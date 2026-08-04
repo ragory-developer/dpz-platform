@@ -1,0 +1,6 @@
+[submodule "dpz-api"]
+	path = dpz-api
+	url = https://github.com/ragory-developer/dpz-api.git
+[submodule "dpz-web"]
+	path = dpz-web
+	url = https://github.com/ragory-developer/dpz-web.git
